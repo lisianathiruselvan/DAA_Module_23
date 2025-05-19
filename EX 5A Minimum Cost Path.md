@@ -1,5 +1,5 @@
 # EX 5A Minimum Cost Path
-## DATE:
+## DATE: 14.4.25
 ## AIM:
 To write a Python program using A Naive recursive implementation of Minimum Cost Path Problem.
 
