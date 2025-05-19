@@ -29,7 +29,7 @@ R = int(input())
 C = int(input())
 import sys
 def minCost(cost, m, n):
-    ###########  Add your Code Here ##################
+    
     if (n < 0 or m < 0):
         return sys.maxsize
     elif (m == 0 and n == 0):
