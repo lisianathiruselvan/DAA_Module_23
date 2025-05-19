@@ -1,5 +1,5 @@
 # EX 5C Kadane's Algorithm
-## DATE:
+## DATE: 22.4.25
 ## AIM:
 To write a python program to find the maximum contiguous subarray.
 
